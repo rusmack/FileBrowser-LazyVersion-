@@ -1,0 +1,15 @@
+C:\Users\RMDne\source\repos\FileBrowser\bin\Release\FileBrowser.exe.config
+C:\Users\RMDne\source\repos\FileBrowser\bin\Release\FileBrowser.exe
+C:\Users\RMDne\source\repos\FileBrowser\bin\Release\FileBrowser.pdb
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.csprojAssemblyReference.cache
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\MainWindow.g.cs
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\App.g.cs
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser_MarkupCompile.cache
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser_MarkupCompile.lref
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\MainWindow.baml
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.g.resources
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.Properties.Resources.resources
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.csproj.GenerateResource.cache
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.csproj.CoreCompileInputs.cache
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.exe
+C:\Users\RMDne\source\repos\FileBrowser\obj\Release\FileBrowser.pdb
